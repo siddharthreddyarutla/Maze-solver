@@ -7,9 +7,9 @@ To create a maze solver with Python, we need to choose a data structure to repre
 
  w   p   p   w   c   w   c   c   w   w   c   c   c   c   c   w   w   c   w   w   c   c   c   c   c   c   w 
 
- w  w  p  w  p  p  p  w  w  w  w  w  w  w  p  p  p  p  p  w  w  w  w  w  w  c  w 
+ w   w   p   w   p   p   p   w   w   w   w   w   w   w   p   p   p   p   p   w   w   w   w   w   w   c   w 
 
- w  c  p  p  p  w  p  p  p  p  p  p  p  p  p  w  c  w  p  p  p  p  p  p  p  p  w 
+ w   c   p   p   p   w   p   p   p   p   p   p   p   p   p   w   c   w   p   p   p   p   p   p   p   p   w 
 
  w  w  w  c  w  w  c  w  c  w  c  w  w  w  w  w  w  w  w  w  w  c  w  w  w  p  w 
 
